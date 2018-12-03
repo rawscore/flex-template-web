@@ -6,6 +6,7 @@ This is a template web application for a Sharetribe Flex marketplace ready to be
 customized. It is based on an application bootstrapped with
 [create-react-app](https://github.com/facebookincubator/create-react-app) with some additions,
 namely server side rendering and a custom CSS setup.
+Looking for the Official Version? https://github.com/sharetribe/flex-template-web 
 
 ## Quick start
 
